@@ -13,6 +13,8 @@ namespace SecondDay
             int heltal = 123;
             Console.WriteLine(heltal);
 
+            Console.WriteLine("hej");
+
         }
 
 
